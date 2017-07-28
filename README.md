@@ -1,1 +1,11 @@
 # heapster
+Heapster enables Container Cluster Monitoring and Performance Analysis.
+
+Heapster currently supports Kubernetes and CoreOS natively. Heapster is compatible with kubernetes versions starting from v1.0.6 only
+
+It can be extended to support other cluster management solutions easily.
+
+Learn more at: https://github.com/kubernetes/heapster
+
+Tag:
+* v1.2.0
