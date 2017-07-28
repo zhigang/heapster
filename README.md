@@ -10,3 +10,4 @@ Learn more at: https://github.com/kubernetes/heapster
 Tag:
 * v1.2.0
 * v1.3.0
+* v1.4.0
