@@ -7,6 +7,9 @@ It can be extended to support other cluster management solutions easily.
 
 Learn more at: https://github.com/kubernetes/heapster
 
+Docker Pull Command:
+* `docker pull siriuszg/heapster-amd64`
+
 Tag:
 * v1.2.0
 * v1.3.0
